@@ -1,2 +1,3 @@
 # Futebol2D
-Soccer 2D Simulation
+
+- Categoria: Soccer 2D Simulation
